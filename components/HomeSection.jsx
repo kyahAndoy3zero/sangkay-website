@@ -13,7 +13,7 @@ const HomeSection = () => {
           <p className="mt-2 font-sans text-lg text-slate-700 dark:text-slate-400">
             is an online service and program of SK Libas where people can get psychosocial and emotional help support for an emergency and emotional crisis. It's free and anonymous.
           </p>
-          <button className="py-4 my-8 text-lg font-bold underline transition-all text-deeppink">Sangkay Help Line</button>
+          <button className="px-6 py-2 my-8 text-lg font-bold transition-all border rounded-full text-deeppink border-pink hover:bg-deeppink hover:text-white">Help Line</button>
         </div>
       </div>
       <div className="order-first md:mx-auto md:my-auto bg-opacity-80 md:order-last">
