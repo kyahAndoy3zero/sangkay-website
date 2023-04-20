@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="text-center sm:flex sm:items-center sm:justify-between">
 
 
-        <h1 className="mb-4 mr-auto text-2xl font-extrabold leading-none tracking-tight sm:mb-0">Project Sangkay</h1> 
+        <h1 className="mb-4 mr-auto text-xl font-medium leading-none tracking-tight sm:mb-0">Project Sangkay</h1> 
         
             <ul className="flex flex-wrap justify-center mb-4 text-sm font-medium text-gray-500 sm:flex-row sm:items-center sm:mb-0 dark:text-gray-400">
                 <li>

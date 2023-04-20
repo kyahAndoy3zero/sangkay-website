@@ -7,7 +7,7 @@ const Service = () => {
       <div className="mb-10 text-center">
         <div>
           <Image src='connection.svg' width={170} height={190} className="mx-auto mb-10" alt="connection"/>
-          <h2 className="mb-4 text-2xl font-bold">
+          <h2 className="mb-4 text-2xl font-medium">
             Connectedness
           </h2>
         </div>
@@ -15,7 +15,7 @@ const Service = () => {
       <div className="mb-10 text-center">
         <div>
           <Image src='calm.svg' width={200} height={200} className="mx-auto mb-10" alt="connection"/>
-          <h2 className="mb-4 text-2xl font-bold">
+          <h2 className="mb-4 text-2xl font-medium">
           Calm & Comfort
           </h2>
         </div>
@@ -23,7 +23,7 @@ const Service = () => {
       <div className="text-center ">
         <div>
           <Image src='empowerment.svg' width={180} height={180}  className="mx-auto mb-10" alt="connection"/>
-          <h2 className="mb-4 text-2xl font-bold">
+          <h2 className="mb-4 text-2xl font-medium">
           Self-Empowerment
           </h2>
         </div>
